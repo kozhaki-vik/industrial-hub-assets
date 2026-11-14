@@ -8,7 +8,7 @@
 
 ## 📁 Где находятся файлы
 Локальная папка репозитория ассетов на вашем ПК:
-`C:\Users\dimav\source\repos\industrial-hub-assets`
+`./` (корень репозитория `industrial-hub-assets`)
 
 Внутри находятся:
 * `items/` — папка со всеми картинками предметов (форматы `.png`, `.jpg`, `.webp`). Название файла должно строго соответствовать `shortname` предмета (например: `rifle.ak.png`, `ammo.rifle.png`).
@@ -21,7 +21,7 @@
 
 ### Шаг 1: Добавьте файлы картинок
 Скопируйте новые картинки в папку:
-`c:\Users\dimav\source\repos\industrial-hub-assets\items\`
+`./items/`
 
 > [!IMPORTANT]
 > **Имя файла:** Имя файла должно быть в формате `<shortname>.png` (например, `pistol.revolver.png`). Разрешены только английские буквы, цифры, точки, дефисы и подчеркивания.
@@ -31,7 +31,7 @@
 ### Шаг 2: Пересчитайте манифест (хеши)
 Откройте PowerShell или командную строку в папке репозитория и запустите команду:
 ```powershell
-cd "C:\Users\dimav\source\repos\industrial-hub-assets"
+cd ./
 node generate-manifest.js
 ```
 Скрипт выведет:
