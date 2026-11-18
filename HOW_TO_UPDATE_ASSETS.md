@@ -52,9 +52,10 @@ git push origin main
 ### Шаг 4 (Опционально): Мгновенное оповещение всех запущенных клиентов
 Если вы хотите, чтобы клиенты, у которых приложение **уже открыто прямо сейчас**, моментально скачали новые картинки без перезапуска программы:
 
-Выполните один POST-запрос на сервер (через PowerShell или браузер/Postman):
+Выполните один POST-запрос на сервер (через PowerShell с указанием секретного ключа `ASSETS_NOTIFY_SECRET` из `.env` сервера):
 ```powershell
-Invoke-RestMethod -Uri "https://industrial-hub.duckdns.org/api/assets/notify" -Method Post
+# Замените ВАШ_СЕКРЕТ_ИЗ_ENV на значение ASSETS_NOTIFY_SECRET из .env сервера
+Invoke-RestMethod -Uri "https://industrial-hub.duckdns.org/api/assets/notify" -Method Post -Headers @{ "x-webhook-secret" = "ВАШ_СЕКРЕТ_ИЗ_ENV" }
 ```
 Сервер отправит сигнал по WebSocket всем подключенным клиентам, и они в фоновом режиме докачают новые картинки за несколько секунд.
 
