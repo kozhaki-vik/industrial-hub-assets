@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T21:35:54.218Z",
-  "count": 1587,
+  "updatedAt": "2026-11-18T19:20:19.737616+00:00",
+  "count": 1785,
   "files": {
     "2module car chassis.png": {
       "hash": "ba85fc3f2bb98684bcf36b09aeb7f3c1b87d2ed7fb7505a3a71185460bd8585c",
@@ -75,6 +75,10 @@
       "hash": "c5acdcb8e440d271f714d76f57bee28647831a2dad5f4f6411a1bb7b0d6704b5",
       "size": 3594
     },
+    "alien.costume.png": {
+      "hash": "6b0eb45580da0a2786f4e2d6c6d9700279f2f4b94757bd51dcb64269ff37eb1f",
+      "size": 14341
+    },
     "ammo.grenadelauncher.buckshot.png": {
       "hash": "208de2ea8dd852001c2f6210eaa6d5a0ac69aacb14dd1bf74c0e45c9f8f3fd28",
       "size": 4024
@@ -90,6 +94,14 @@
     "ammo.handmade.shell.png": {
       "hash": "21cd3cc13be3ce87f62d170e058734e27f6497851cb613ffab8efa9f7f893bfa",
       "size": 6936
+    },
+    "ammo.mortar.basic.png": {
+      "hash": "554e60bc82284f51043ea9dac90c85d4f8af04c43f095e3673bf6a8fb8717b71",
+      "size": 13014
+    },
+    "ammo.mortar.fragment.png": {
+      "hash": "ff1d8b345a66bd2cf82307c0b30054afb69d44ecbeb0c682c7ec56f4cad92f7c",
+      "size": 12958
     },
     "ammo.nailgun.nails.png": {
       "hash": "13591435b7b4e8ee23d0e5b69339f5adf7fea74dde6998c2266c5691048020b6",
@@ -179,6 +191,10 @@
       "hash": "bb931d0f67775903cc35cc7ab0fe67f3145de1ce5b006f9e9ccfad0831f2d8ad",
       "size": 4598
     },
+    "apartment.master_key.png": {
+      "hash": "fecb4c3ddbe7375f7d1374e39d79baf93da0a7616466e32abaa06d7bd01ad538",
+      "size": 19031
+    },
     "apple.png": {
       "hash": "601e4abadca58764abc9a564e85da96952007609edd05f35ce41c14a6bc46fec",
       "size": 4049
@@ -267,6 +283,10 @@
       "hash": "98faf786719eae501784027b36c05025395f61fd2a9a394052613b68c6ae5d56",
       "size": 2791
     },
+    "autoturret.industrial.skin.png": {
+      "hash": "1b4d52db4cbcacb0c487d756ced030b98426576a9fd27eb27ba905378c346666",
+      "size": 19657
+    },
     "autoturret.png": {
       "hash": "c99229d2a2cde6e431dae1ec42856d3a6ebbc6838e919e7c36404390f8cff066",
       "size": 6492
@@ -303,6 +323,18 @@
       "hash": "39562dd0e3ede79a72f083151f1a387e92a4dc4a35947739ee26550602de32f0",
       "size": 3583
     },
+    "ballistic.helmet.png": {
+      "hash": "51b9e3a19c213013c272106a610ae4eb62d07ac54c33cc85f46fb5c034baf035",
+      "size": 17448
+    },
+    "ballistic.legarmor.png": {
+      "hash": "9f2483ac404ededbb20aa6bcada69bb8b792cd6438753c8482b7ae5b91f25887",
+      "size": 21554
+    },
+    "ballistic.vest.png": {
+      "hash": "2aeee1c6b18a2f924ce9df6f15dbb5d97055bda528e76fd9fbd2bd013d5bff45",
+      "size": 21810
+    },
     "bamboo.barrel.png": {
       "hash": "57d61fb8c9191251ca5507e0ef4452cad8c429772089f32d3b426f0b33df9f0d",
       "size": 5263
@@ -310,6 +342,14 @@
     "bandage.png": {
       "hash": "c3efe4dacca61b4d78cee78bddce314c6146cf50cf11b0c0ed8261638ecf21a5",
       "size": 7010
+    },
+    "bar.stool.metal.png": {
+      "hash": "634c30d9a98a9998a95743fcfcdecb80d96b72011412fe860ba22701223e36ff",
+      "size": 13311
+    },
+    "bar.stool.wood.png": {
+      "hash": "c7982d35f91b8cd11c1c353a6023d9647ce81ad6986e5176144c2f63235d06ec",
+      "size": 15411
     },
     "barrelcostume.png": {
       "hash": "5b48f1e1f92c5f672372b28300448e54b23bda815d14afade1211704f86aa2be",
@@ -327,9 +367,21 @@
       "hash": "b0198ea04d7e8cd315fab6fcddee0cb10efd858faea1e7f7d4637bc1f8c1e272",
       "size": 9015
     },
+    "barricade.sandbags.half.png": {
+      "hash": "edc15a92cabe9adcb3662b4e450c33d060d1de0274fc011da1c677642363a395",
+      "size": 13081
+    },
+    "barricade.sandbags.pillbox.png": {
+      "hash": "48b3af13c7374ee0973ee1555b60917bbd7dc3c992bee7b9849e32180e0ae51c",
+      "size": 17965
+    },
     "barricade.sandbags.png": {
       "hash": "ca9331861031d074e8686906df7c42dc9332044e378ad7bee9a681277ae2ceae",
       "size": 7057
+    },
+    "barricade.sandbags.three.quarter.png": {
+      "hash": "e98743769fc02518d3e6c08983a0d095b6252f233f30444318cc42dc9c0f7e4a",
+      "size": 16677
     },
     "barricade.stone.png": {
       "hash": "103cf0af480cba76fe2b5f48f828ff8bf62efd7d84fd1507430b2e57b9c32e42",
@@ -346,6 +398,62 @@
     "barricade.woodwire.png": {
       "hash": "cf3a0b9ba4792b6bbb2dec7c4a46cea1a8d8584ec63954dd92924cd9243714de",
       "size": 10357
+    },
+    "base.half.shelves.halfheight.salvaged.industrial.shelves.skin.png": {
+      "hash": "4c95aee26bae331c5408384cd741afc16d7ebf7873bca1cad49a1d3b5b674c98",
+      "size": 20348
+    },
+    "base.half.shelves.halfheight_salvaged_bamboo_shelves.sitem.png": {
+      "hash": "9c0405c5a426424dbf46c279b7dc2323305576f6a464732c320418fb32e3c568",
+      "size": 22038
+    },
+    "base.horizontal.barrel.StorageBarrelC.skin.png": {
+      "hash": "4ddc36f4e6385a3b525959e5fafa359929bda1ba41fcf30d77d2009d1fc9c921",
+      "size": 25175
+    },
+    "base.horizontal.barrel.WickerBarrel.skin.png": {
+      "hash": "79d4491086b41a015ebbf88ca8735a472ec472e8ed862edeb5fd8f598ee9b249",
+      "size": 28932
+    },
+    "base.horizontal.barrel.abyss_barrel_horizontal.skin.png": {
+      "hash": "9d02a512e9af8b5e44a5ff70a84f60b1039ed5676ff35011b6768dd7d952dd5a",
+      "size": 28653
+    },
+    "base.horizontal.barrel.industrial.storage.horizontal.skin.png": {
+      "hash": "a885ac26acceb1061d193226ea67cb01a12b129fd26a923259c1e010703e1198",
+      "size": 25071
+    },
+    "base.horizontal.barrel.krieg_storage_horizontal.skin.png": {
+      "hash": "13c64959d836b3a4c20ab84a69544b79de790059bfc0b592839f86460919a7ec",
+      "size": 22621
+    },
+    "base.single.shelves.wall.shallow.industrial.shelves.skin.png": {
+      "hash": "0a8fe27822b55f8241f7c66d16641294a9a2119166c5a2e49569500adaf85a7b",
+      "size": 8925
+    },
+    "base.single.shelves.wall.single.shallow.shelves.sitem.png": {
+      "hash": "a4bbac2e5a4afa40a6784f6c839b19a0c6c4e37e3ea16f50e390b078734919c2",
+      "size": 9687
+    },
+    "base.vertical.barrel.BambooBarrel.skin.png": {
+      "hash": "1eee0365fdfaac9fead6eb85c46db718177a4a7765dab68cde690920d8ca4642",
+      "size": 20631
+    },
+    "base.vertical.barrel.StorageBarrelB.skin.png": {
+      "hash": "aee154b74754dc4798ee6dea7b474af3dba17a9792beae9481bc6ee1cdcecaf9",
+      "size": 23577
+    },
+    "base.vertical.barrel.abyss_barrel_vertical.skin.png": {
+      "hash": "559585390131c5c0e4c2a62303ffc88d23244b48a1a5a8418a87ab4f82a71642",
+      "size": 26564
+    },
+    "base.vertical.barrel.industrial.storage.vertical.skin.png": {
+      "hash": "d7499e19dbec2fa2f680cdd0b30c981277b72702fea6168860ada09627598523",
+      "size": 21221
+    },
+    "base.vertical.barrel.krieg_storage_vertical.skin.png": {
+      "hash": "5661bf0faeb38793fc341b650f3f1a5f70acceeb907ba35021f2cf4bb3c3f865",
+      "size": 21413
     },
     "basicblueprintfragment.png": {
       "hash": "2fec33c9d8cfc858bb6ede6d034153f349bae2b16c8448fd4c984dc63877445f",
@@ -366,6 +474,14 @@
     "bbq.png": {
       "hash": "b7bacae79b0ded1a6591cba70cf892a2fff0c415134c6c2c1db0967c72032fc3",
       "size": 4442
+    },
+    "bdu.pants.png": {
+      "hash": "b9702d330d00b1bf8292ba77f5f8dc96c366d4123a4aa1f880f82a13a3318937",
+      "size": 14975
+    },
+    "bdu.shirt.png": {
+      "hash": "51aa88041ad348e4a0b446dae8d6c2bfb2f8a88be3fe1782f879bdb52aad0b12",
+      "size": 19607
     },
     "beachchair.camo.png": {
       "hash": "0e7a4b69f7a00601305d23aea07da449efa01e40d89c7ae40980b86b1b1b8adf",
@@ -495,6 +611,18 @@
       "hash": "595bceefcf2badd245398ad73df1290b11b5db2f7aef528b5497c516b56aa07d",
       "size": 4849
     },
+    "beefmeat.cooked.png": {
+      "hash": "72103dd03890882aac87ff67a6064e119bcdd11b1834d764ab9d96f02c92db4f",
+      "size": 18994
+    },
+    "beefmeat.png": {
+      "hash": "261f7b00f9e7ce6c90d1ff074b5c20e9f84bd4fd675cdfa0142dba1226eb027e",
+      "size": 18183
+    },
+    "beefmeat.spoiled.png": {
+      "hash": "c480255082e6276d0195ff02ecf0c0c943e7267a7269e5709b430fc959ff1b37",
+      "size": 19779
+    },
     "beehive.png": {
       "hash": "46b5f856845679a7642b856e60e74ee3da43d0fe9468a3363fa5043adc9d1e77",
       "size": 3792
@@ -554,6 +682,18 @@
     "blueprintbase.png": {
       "hash": "f48b5f8ae6fbaeb60f818006197e4f9d91ca3bcb0a81c903beb7951d9ab85d80",
       "size": 5045
+    },
+    "blueprintbook.png": {
+      "hash": "6c6c57532b9ccbde9eae9017558b6f7b0607378d2c2dbeaa0cfb9bd7afbb888d",
+      "size": 17159
+    },
+    "blueprintfragment.png": {
+      "hash": "4831eff0f681b684dda64097819c0fdddaaada6ba2553774af1575e9ba3fddcd",
+      "size": 14293
+    },
+    "blueprintpage.png": {
+      "hash": "be15419f53650ad7e14b60c9a1eb42e2a0fb3d852a5a80cdb1fda13f9b392c59",
+      "size": 22866
     },
     "blunderbuss.png": {
       "hash": "ce67112eb270dbae854f54f9b980b770de192bc1ce3d4df6f3ed0dc45c8ae76c",
@@ -739,6 +879,10 @@
       "hash": "57cd46c240b8d4283396d9faa112d1c07e3d0d69e0aa420ad8ab492672d9106f",
       "size": 6649
     },
+    "bread.brioche.loaf.png": {
+      "hash": "64b51bfa912c7afb138c288ff9b6a0f15d7e6ff8129da666032ef9fd2921162e",
+      "size": 20854
+    },
     "bread.loaf.png": {
       "hash": "bfcf7e57a2ca4bb0d780cc79a2a15e2c8434e5f439191fa292356bae95ccd64b",
       "size": 4703
@@ -919,6 +1063,14 @@
       "hash": "3496991618129762757e27b1d90a74555f5468f956f8167590ef513d292a45d0",
       "size": 3015
     },
+    "chair.bar.games.bar.stool.metal.skin.png": {
+      "hash": "634c30d9a98a9998a95743fcfcdecb80d96b72011412fe860ba22701223e36ff",
+      "size": 13311
+    },
+    "chair.bar.games.bar.stool.wood.skin.png": {
+      "hash": "c7982d35f91b8cd11c1c353a6023d9647ce81ad6986e5176144c2f63235d06ec",
+      "size": 15411
+    },
     "chair.beanbag.seat.fabric.skin.png": {
       "hash": "dedd321589b2750673a653f0413ec8eafc62357db4cf3ce90805edd6042f9674",
       "size": 4967
@@ -958,6 +1110,14 @@
     "charity.plushy.02.png": {
       "hash": "f5191912fcde8a24325dd9a940dd9e9cb52aeaa2e0d08fc4e70ceb89c0d85277",
       "size": 6062
+    },
+    "charity.plushy.03.png": {
+      "hash": "cdadfb0ac63880615b02c1631de0ef9c99494f643e7347e84b299315e433d019",
+      "size": 23100
+    },
+    "charity.plushy.04.png": {
+      "hash": "f75e3c7c1d90de6f14de67d30a371cf1093618f2056aba0d7b72e093dbe447ab",
+      "size": 26876
     },
     "chicken.burned.png": {
       "hash": "0fa2208600d325497d4189f614989ab31e0c8ad2038a30afccbba40df2706910",
@@ -1086,6 +1246,10 @@
     "clothing.mod.armorinsert_wood.png": {
       "hash": "edfdff3f60c67df10c7a1bc2ed2167e652afea946cb1c06d94bf8570111bc1c9",
       "size": 4187
+    },
+    "clothing.mod.armorinsert_wool.png": {
+      "hash": "ac6b142d6c4e1d342035f05b2b8fa4ba37f10ad15dffdff947eaab4c0181e2a6",
+      "size": 23905
     },
     "coal.png": {
       "hash": "b37324d784f5768ee84e66f1d635ed3bbac7a2fa3489e8b48a548f332fc5de76",
@@ -1255,6 +1419,10 @@
       "hash": "f5e6dc5e253b9a81d9283f11b45779c4ae0ed1272a1faafc54d74d6445c03e70",
       "size": 6337
     },
+    "cream.png": {
+      "hash": "c9115dc291b13f587fe1fc3a617b0903fa94e18381abb5dbf4d18d67ff34b640",
+      "size": 21316
+    },
     "crocodilemeat.cooked.png": {
       "hash": "d337887d9f108c4ce1b8cc11945c22fcbce89f8a0524e6d537dd83f783eb3b7d",
       "size": 4471
@@ -1267,9 +1435,17 @@
       "hash": "89d3aec3cb5b92556db6df40ae72063e65b8fdfa03aa67fd23c160e53f3b3c67",
       "size": 4252
     },
+    "crossbow._bowless.skin.png": {
+      "hash": "c16e5a15bd5064a78222fb6306b31593e8d86b132d567dc1d04a8a7d4730523e",
+      "size": 35674
+    },
     "crossbow.png": {
       "hash": "1c78aa84d22fbc4eebd56f37d5e035206d450f01b25cc312998195cb6121623c",
       "size": 6576
+    },
+    "crossbowbowless.png": {
+      "hash": "509849085f1a2586196bdbfe3e2829dc0fe7b79fbf70f018bcbb925cc35c2112",
+      "size": 16391
     },
     "crude.oil.png": {
       "hash": "b71f08c907008ab4635ddcfc1a40066b56b9322edfe20d600f72eae6e2da6872",
@@ -1315,6 +1491,10 @@
       "hash": "8c3053332ea3e92b42f9d711799b0f419446b84222bc3fdbdf3d2db5fa7ead26",
       "size": 2209
     },
+    "dartboard.png": {
+      "hash": "6f68936f2bf99a1c995a4616c8b4f5bbb33dfc887e01966a0174ad367dc179d5",
+      "size": 22073
+    },
     "deer.skull.mask.png": {
       "hash": "054b4f367110b15e1d8816e2c914c385ee7f3c8cd7e76387b26ed93bd87c3edd",
       "size": 3536
@@ -1351,9 +1531,17 @@
       "hash": "7ceb26ca58934c02975dbdfd1ee628c5c69a159a0e2f40e758aca5d89a765ee1",
       "size": 4018
     },
+    "discord.plushie.png": {
+      "hash": "b90fe594db4fc5827eadcdcf201e794f58b9bc9c683fc35eb1c61b940ac04b68",
+      "size": 22706
+    },
     "discord.trophy.png": {
       "hash": "012dda7cee3a4cd3fce8174952f33bcc3c14500931a3e5c0300ef3dd2b5cb2ba",
       "size": 5874
+    },
+    "discord.zombie.plushie.png": {
+      "hash": "a08b2e38445fb83cb1b013a7e5241638edba8b3f46d823c78afe536f4224daa1",
+      "size": 22915
     },
     "diverhatchet.png": {
       "hash": "275095f09165104de665f7bffa2464b86658b15ed9a33cb680672fdec8fdf8d9",
@@ -1587,6 +1775,10 @@
       "hash": "3fdb11485f005930e2ec8027caad3b010b154667c465a0fb2d89636bdbf7ef37",
       "size": 5609
     },
+    "electric.furnace.industrial.skin.png": {
+      "hash": "c44ccf3eebde5ee68348d94dd9827831cdfe6f4afa0c4d53cfc98fd18891089b",
+      "size": 22116
+    },
     "electric.furnace.png": {
       "hash": "6dbb6ec25065f253c0bf3c448f8882d83a03a1d112094a5191f85f99d10711d2",
       "size": 6060
@@ -1758,6 +1950,10 @@
     "firework.boomer.violet.png": {
       "hash": "7c0b218370a20202522ca935f2d095015419e2e2158c9d44798bc04a806042c4",
       "size": 4155
+    },
+    "firework.boomer.white.png": {
+      "hash": "54bec60780c075eec269e3cf82d5831771ac8e3f79682adef974ec27a0caff1f",
+      "size": 19362
     },
     "firework.romancandle.blue.png": {
       "hash": "b1a3cd97af8aeaa469fb039d900b180d044dc1b15dfd38269d7885e8cd58d5f0",
@@ -1959,6 +2155,10 @@
       "hash": "90e48f9225c70060d6d8c1e0e3a5c410655fb118c374d79e6eb4d3759f1cde4d",
       "size": 4729
     },
+    "frontier_hatchet.png": {
+      "hash": "bc5acc017240d60ddd30bd968cecee890df30a95befc86338df68636880913a8",
+      "size": 2847
+    },
     "frontiermirror.large.png": {
       "hash": "680e4dbe48ba778ca2a77be144ca698c63d44708c7533c4e97b4f204443d2c00",
       "size": 3439
@@ -1974,10 +2174,6 @@
     "frontiermirror.standing.png": {
       "hash": "70e6841361112449a69927ad5f7da9e4c7f412f54af5e37d952f2f30037445ef",
       "size": 3411
-    },
-    "frontier_hatchet.png": {
-      "hash": "bc5acc017240d60ddd30bd968cecee890df30a95befc86338df68636880913a8",
-      "size": 2847
     },
     "fun.bass.png": {
       "hash": "1586fb1b209665d6de82845ee47c3a6dc90c459d41c35af1c54965fb18899da2",
@@ -2019,6 +2215,10 @@
       "hash": "048926a2dbffa34bf1d2f24b1a7393bd49438d7b54e8a16d24178ebedc8f698a",
       "size": 3643
     },
+    "furnace.large.industrial.skin.png": {
+      "hash": "52ba98434f88ccd16e7807324dc13c1a7098a5b44f830e9db05a21262bb5e54a",
+      "size": 21965
+    },
     "furnace.large.png": {
       "hash": "c2a6bf118c15060db673e637804d7a73105aef4326cf16c81c0b9658dedca6d4",
       "size": 6579
@@ -2031,9 +2231,21 @@
       "hash": "1f836d7afe2234a3d9b36da0af9775ab1e1e714d3c442ab59e92d477f56caa76",
       "size": 6637
     },
+    "fuse.highgrade.png": {
+      "hash": "f430ce3550f8690f4bcb3b5c9104f81183d824539b2c6c941a6ee33cfa41f614",
+      "size": 10250
+    },
     "fuse.png": {
       "hash": "94ee3f5e2ffeb5fec2f3d1f4925eaa4c493dda13f1f274fec2dd838857193300",
       "size": 2858
+    },
+    "gamesroom.minifridge.png": {
+      "hash": "6d8ee7e60f30cc7618f92cdd54a947cb3a6fbf07ea83e679f8eb8769e1d0825d",
+      "size": 21508
+    },
+    "gamesroom.shotgun.trap.png": {
+      "hash": "e2d93f3807e1d6c6897449e53323e147a280f894e9d3dc0d3c74bb5e21439d6a",
+      "size": 16876
     },
     "gates.external.high.adobe.png": {
       "hash": "6a1076ba5724513348498f0c524f8b5ba4cdd24ae5f05e8696a8532be8f3a0ff",
@@ -2066,6 +2278,10 @@
     "geiger.counter.png": {
       "hash": "68a77da60ae21344a7f8707e57f6eac5c3eca317005be7735f5f1366518c4637",
       "size": 3735
+    },
+    "generator.biofuel.png": {
+      "hash": "b86024a599c73a5f64dd98eaa97dfabcd32b9a6391c68adf2e7bee9b63136377",
+      "size": 20728
     },
     "generator.water.png": {
       "hash": "49f666ffc7dfeddf20f1a87be85304249e0f9e7b3a93bc15543146a2d28fcc73",
@@ -2239,6 +2455,10 @@
       "hash": "e70d05be7d9d3c366c9c117a8360e51365a9480d4fdfa681f05b339601b9bb52",
       "size": 3601
     },
+    "guntrap.gamesroom.shot.skin.png": {
+      "hash": "e2d93f3807e1d6c6897449e53323e147a280f894e9d3dc0d3c74bb5e21439d6a",
+      "size": 16876
+    },
     "guntrap.png": {
       "hash": "a531bb2f33bf9c7696641a5f1ea4a75600a66502cb98aed8ea4dc07c669dada4",
       "size": 3258
@@ -2254,6 +2474,10 @@
     "half.bamboo.shelves.png": {
       "hash": "825dabdce4fb53ab489ce396768d3b1090630d5c960492bc0b64beb092c8d9db",
       "size": 6121
+    },
+    "halfheight.industrial.shelves.png": {
+      "hash": "4c95aee26bae331c5408384cd741afc16d7ebf7873bca1cad49a1d3b5b674c98",
+      "size": 20348
     },
     "halloween.candy.png": {
       "hash": "170232e39a55d09d8a8a9c4229f58b40e51bede129bf38a1792bebdcc3fdd230",
@@ -2275,9 +2499,17 @@
       "hash": "7136b6ed64cd96807b9c9ab3cf4b42bcae5cdafd06e1d0bc88e3e78ad08355e1",
       "size": 3186
     },
+    "halloween.string.lights.png": {
+      "hash": "c88548e7eaa1fdd590da2dde132ccab232cb23e9e14050ad4f1553af1578ef1b",
+      "size": 6548
+    },
     "halloween.surgeonsuit.png": {
       "hash": "372510258ad1e23d05dc40ac5add9ac51ca135e976ddfbffdc9fc2432748f551",
       "size": 3985
+    },
+    "halloweenwreath.png": {
+      "hash": "819c6f19772a9bbf69349d3fd6ef11f7a40336d7d7f438fa74582c56e43edb3d",
+      "size": 20970
     },
     "hammer.png": {
       "hash": "836bec9347854103b9e53a0c28bc4b01271170039f4125bb897ff1c541b7385c",
@@ -2419,9 +2651,41 @@
       "hash": "eb5aafea8bc5e100221673a82d0ec21bade9bef72693ac73a62288476c72b8d0",
       "size": 2964
     },
+    "hat.wolf.dragonmask.sitem.png": {
+      "hash": "f5136a5895ca8ad69fff3a74cb1beccb97dcfea172e80328c238626fac74a30c",
+      "size": 18601
+    },
+    "hat.wolf.horsemask.sitem.png": {
+      "hash": "1a8cb693e596edda2475027a767f0b607c785e9a57d3e45bdc84aafe600e953b",
+      "size": 34464
+    },
+    "hat.wolf.nest.hat.sitem.png": {
+      "hash": "a408492c9994f5098eba2e481fb77a73dfe17c448e5a1ff9a2e305a0e8ce638e",
+      "size": 36963
+    },
+    "hat.wolf.oxmask.sitem.png": {
+      "hash": "304ab9be1baebb022a78ca37afd77be30adb3f394ec82679e0a7ee687ae5e4c9",
+      "size": 20663
+    },
     "hat.wolf.png": {
       "hash": "0d3fcd817da75d5424908a5248f69a5ace4d11f499b6c6596485ff53b9d96952",
       "size": 7554
+    },
+    "hat.wolf.rabbitmask.sitem.png": {
+      "hash": "f26d1f0e7228e722601ffed2e447bb2ad092e0e8b20af4f3d093122355851b08",
+      "size": 17872
+    },
+    "hat.wolf.ratmask.sitem.png": {
+      "hash": "227ae483cd52fd03f8de57cafeae648babf173f1240f2808a689defa71c7e6dc",
+      "size": 23517
+    },
+    "hat.wolf.snakemask.sitem.png": {
+      "hash": "5910488cd2a013faca314568f4ed34f6b48e3611a9977e2183d1eafc5b2b0338",
+      "size": 20220
+    },
+    "hat.wolf.tigermask.sitem.png": {
+      "hash": "b8f1e453ab626fe3a1a4703298297ae71804cbbb3f430bf218a2102fdcfe065b",
+      "size": 21724
     },
     "hatchet.diver_.skin.png": {
       "hash": "275095f09165104de665f7bffa2464b86658b15ed9a33cb680672fdec8fdf8d9",
@@ -2442,6 +2706,10 @@
     "hazmat.krieg.png": {
       "hash": "190633c2eafd70a9cc2f5715dacc311a08697a1c5d24bb5570ff3e70db849d87",
       "size": 3940
+    },
+    "hazmat.plague.png": {
+      "hash": "8c05306afd1eb60671842a36702464e5ce861415b1bd1f087d69d49949637d9f",
+      "size": 13618
     },
     "hazmat.plushy.png": {
       "hash": "68e2ac37017208f1daad16abb81ef4f53e2cd6c972552e374a44da46a0bb3316",
@@ -2511,6 +2779,10 @@
       "hash": "7b4ca0bf5100c95676f72917e74cf4623862f2c387021879d6498300dcda0d36",
       "size": 3553
     },
+    "hazmatsuit.plague.hazmat.skin.png": {
+      "hash": "e7f7d7731ed2c678dfa8d002e1f71b39e0638cef2c003611a08542607aa319ef",
+      "size": 33110
+    },
     "hazmatsuit.png": {
       "hash": "f075f2913b1d03b534ac26e454cf0bf8d11267f8e4268cf7d2995b4598db2138",
       "size": 4297
@@ -2518,10 +2790,6 @@
     "hazmatsuit.spacesuit.png": {
       "hash": "809152dbdc4f6405530e9acbb382d940ece10ec2a6d28893e8d5619b85a26fa6",
       "size": 3670
-    },
-    "hazmatsuittwitch.png": {
-      "hash": "dcb45a9ebad1c723e5351acfb6091cdc995f5d5f2e9b623d9cda0257c91f7cd1",
-      "size": 4085
     },
     "hazmatsuit_scientist.png": {
       "hash": "021e2b249e8363f369ed7b5bde48401b6c872a2e3e84ad199b5f05416dc31109",
@@ -2543,6 +2811,10 @@
       "hash": "e25a77e54ad5a0130d04cce97c58ae30db30ccebf27f92eda74c620678435bac",
       "size": 3465
     },
+    "hazmatsuittwitch.png": {
+      "hash": "dcb45a9ebad1c723e5351acfb6091cdc995f5d5f2e9b623d9cda0257c91f7cd1",
+      "size": 4085
+    },
     "hazmatyoutooz.png": {
       "hash": "11ca40b72e0bf100c5e477f3fb8fe81407fdafc305ed11edd16ded52e7f171e2",
       "size": 4294
@@ -2558,6 +2830,14 @@
     "healingtea.png": {
       "hash": "41aa49972bb76c0f82db80e12f4eb626091e524eabb41ed4a58adfe045f4c3c7",
       "size": 4951
+    },
+    "healingtea.pure.creamy.png": {
+      "hash": "e7f29012753f7f86ca5060eaafb00c33b7da69eae620ebc87c431308fa9d6536",
+      "size": 23335
+    },
+    "healingtea.pure.milky.png": {
+      "hash": "d3c63c3ad1ac516f7f100162cd082c9bf4cda6d3f35b4912355fcf25ca882288",
+      "size": 22269
     },
     "healingtea.pure.png": {
       "hash": "c0b4b0ecf891865bbf5e3b90884cecd483bd5ea192806b70af9e54bb554b5d1a",
@@ -2763,6 +3043,10 @@
       "hash": "1dfcfe4887ead34a7badb5860503b94de8856f005ded9051bb74e781b50bb5eb",
       "size": 5480
     },
+    "industrial.autoturret.png": {
+      "hash": "1b4d52db4cbcacb0c487d756ced030b98426576a9fd27eb27ba905378c346666",
+      "size": 19657
+    },
     "industrial.combiner.png": {
       "hash": "880b87eebfe1cc288a5a2b4f68c2947ab386f91530ff18e738d31c1a03b3c9b0",
       "size": 3254
@@ -2775,9 +3059,33 @@
       "hash": "0de04a3d140775747319bd5badaaa050d71b0def7cdb6686033a9bd468f4299b",
       "size": 3009
     },
+    "industrial.electric.furnace.png": {
+      "hash": "c44ccf3eebde5ee68348d94dd9827831cdfe6f4afa0c4d53cfc98fd18891089b",
+      "size": 22116
+    },
+    "industrial.furnace.large.png": {
+      "hash": "52ba98434f88ccd16e7807324dc13c1a7098a5b44f830e9db05a21262bb5e54a",
+      "size": 21965
+    },
+    "industrial.garagedoor.png": {
+      "hash": "cca3cb29c8c6b491cd253cef1ad43ee57dcb895eb47755bd74ed298b8b278ab5",
+      "size": 24907
+    },
     "industrial.splitter.png": {
       "hash": "88291df28aa352a0087f33e570fe124cddac3d9e42847b01bf5ad194fb60afc8",
       "size": 4172
+    },
+    "industrial.storage.horizontal.png": {
+      "hash": "a885ac26acceb1061d193226ea67cb01a12b129fd26a923259c1e010703e1198",
+      "size": 25071
+    },
+    "industrial.storage.vertical.png": {
+      "hash": "d7499e19dbec2fa2f680cdd0b30c981277b72702fea6168860ada09627598523",
+      "size": 21221
+    },
+    "industrial.torch.png": {
+      "hash": "741b72d6eadd9e807c04d80b80163c28d96e6dbb73af47d3faaf8b9ce0774eff",
+      "size": 16005
     },
     "industrial.wall.light.blue.png": {
       "hash": "6f1b7fb5929732dcb98cb6410d069b6c24965f53fce97a1912edbb9ae880f333",
@@ -2911,6 +3219,10 @@
       "hash": "41ecb67b9889c62b1a7d5f261228245024796174b0bbfaad456922c2d1096bf0",
       "size": 4499
     },
+    "jukebox.png": {
+      "hash": "b6a06964054245e293bd7099981b80bdb94a04f81d812bbfe88c29c95a1d9243",
+      "size": 19878
+    },
     "jumpsuit.suit.blue.png": {
       "hash": "15fc736387d44c7df58130def115261d09944e6a44c98ea7ede353a3e8e7e69a",
       "size": 3140
@@ -2942,6 +3254,10 @@
     "keycard_red.png": {
       "hash": "bd3dd8922fe66580013074c7d34cbd3b2ca454f55b5118ade2ba6e51ec1899bc",
       "size": 3835
+    },
+    "kickgems.png": {
+      "hash": "ae0fac88f96f7adc2a325cccb8a92924ea44c4a3beeaf51753d816fc87b4e81c",
+      "size": 22944
     },
     "knife.bone.bone.knife.obsidian.skin.png": {
       "hash": "77d990ad436038ffb0f4a709d4db94225890392d2a772ec78d1affad6097d710",
@@ -3159,6 +3475,10 @@
       "hash": "6296874c7f20faa071e29a9affc85c24df76ba9dbfa9363874edf7b99d37395e",
       "size": 4997
     },
+    "m16a2.png": {
+      "hash": "592f64fbdd14cff33c86d5f433dfa20fc2e25d5d31ca9c044c06efb7bf09e0c7",
+      "size": 10626
+    },
     "mace.baseballbat.png": {
       "hash": "c70c19c7d1f561bb0edfb93405f46f039f01da8d4b6aea52ddcac5ec06fd8fae",
       "size": 2111
@@ -3291,6 +3611,14 @@
       "hash": "50d82af28a8832d9dd026cfbad118c5bbf85e1278174ac52d363dfe1323f65f6",
       "size": 4940
     },
+    "maxhealthtea.pure.creamy.png": {
+      "hash": "cd21019fbef28d170147d27f1a8d6a412c37969956827e2e36c58504755dbe68",
+      "size": 23476
+    },
+    "maxhealthtea.pure.milky.png": {
+      "hash": "228ff012d328beef085e0f80b18a7000bababee3ebc377810688401cb8eda2ce",
+      "size": 22405
+    },
     "maxhealthtea.pure.png": {
       "hash": "ca16e664f347130b93a4846ceffd8e2602479f9b8a69ffb216e323735839a317",
       "size": 4870
@@ -3306,6 +3634,10 @@
     "meat.pork.cooked.png": {
       "hash": "3aa3637375424836a08fd5c0db300438551f763cdca22c87eabbd93b0d4605e0",
       "size": 4888
+    },
+    "medical.honey.bandage.png": {
+      "hash": "a3426d77dfd6cbc408e973f2d888ffe4d3feb80f796e780c14714c65aec34198",
+      "size": 19277
     },
     "medieval.box.wooden.large.png": {
       "hash": "ba2ee8e60365f84c542a16677a8e2b131cab4f21c84f389e6710aa3a8baab629",
@@ -3395,6 +3727,10 @@
       "hash": "c82bbd3b8afef919e104ff39ab3e33ce11a76114cbe8f1c94b5abd6c4bf05349",
       "size": 2983
     },
+    "milk.png": {
+      "hash": "413611e72fd65fb27f8c50c0701bf65bbcd7c43aa198c2973ac23d572478488a",
+      "size": 21273
+    },
     "minecart.planter.png": {
       "hash": "8e1c94c79ab4dff19a5110b3f8686a0364ad1eca7a0ce507c12c535ef211c869",
       "size": 3847
@@ -3410,6 +3746,14 @@
     "minicrossbow.png": {
       "hash": "c46f32b02e2c02c74cccc70c9add407d799bb98025947e8012d5e9cb3337bed1",
       "size": 3547
+    },
+    "minifridge.gamesroom.skin.png": {
+      "hash": "6d8ee7e60f30cc7618f92cdd54a947cb3a6fbf07ea83e679f8eb8769e1d0825d",
+      "size": 21508
+    },
+    "minifridge.png": {
+      "hash": "c0c31267124d7fc56ad03834f91d23a8fe1243763455704aafbcc59efea2dacb",
+      "size": 20865
     },
     "minigun.png": {
       "hash": "09ebeb2c32db2d27de3ce964cd96d3c169c819befca159fa198659e4b86298de",
@@ -3451,6 +3795,10 @@
       "hash": "c4d4b8d5383eaa31a72d4df4a498b5f953ca9045021a15b4bbf20b8226d2f759",
       "size": 3395
     },
+    "mortar.deployable.png": {
+      "hash": "8396138fb25721eade7fe157f06747f77e1d3c90513103f6e4d984ea721662de",
+      "size": 13069
+    },
     "motorbike.png": {
       "hash": "e8949aa2383861bebb87786fef15f89959e3af3badcd0f79be1ee16f1128b840",
       "size": 6653
@@ -3482,6 +3830,18 @@
     "mushroom.png": {
       "hash": "6f3f34567f06b7867dce70bae165dea669ef0f26818ea1746583ff0986450ce5",
       "size": 4881
+    },
+    "muttonmeat.cooked.png": {
+      "hash": "a4be15aa6df239288b9cf6c6891363f4ee5bcc9f75e98f031f6106f5ed280329",
+      "size": 19959
+    },
+    "muttonmeat.png": {
+      "hash": "4451a17a243dcc08770679582c64226d2108ee43693c88d4a21703c7b5dc69c3",
+      "size": 19053
+    },
+    "muttonmeat.spoiled.png": {
+      "hash": "326f601ded1c1e38f2817c9c268c2b62ef9be658f27ca82b48b91742f9a3add1",
+      "size": 20164
     },
     "neonsigntr.png": {
       "hash": "9d60ea3ea98b79c71a387456c96a87ec036aa88063133aacbb4f9dd649b6ac5a",
@@ -3518,6 +3878,14 @@
     "oretea.png": {
       "hash": "920237603098dbbb5e45577d44ce99335acf16f231686bb749710bad54401c18",
       "size": 4995
+    },
+    "oretea.pure.creamy.png": {
+      "hash": "cdef25d31001cc57f9cfc8b9a9236850d2219f923cd73b42341d6c0ced4547ae",
+      "size": 23471
+    },
+    "oretea.pure.milky.png": {
+      "hash": "aaa0f78eb85faecec875ffa146e4df179c70957768f8e8e0085a1a96ca299c73",
+      "size": 22409
     },
     "oretea.pure.png": {
       "hash": "17817fe92dfcab81985778fe1e382689da1eeb8b89660ef0d184a206400824d2",
@@ -3651,37 +4019,89 @@
       "hash": "5671d0ff48fde1655ff50055c77528c35a14615124f41e271236b992ee6a7025",
       "size": 5262
     },
+    "pie.apple.rich.png": {
+      "hash": "9d9b1484cd86272abb1ad47c5342520c6be17046072a32cf494633a1dc91b8cd",
+      "size": 22232
+    },
     "pie.bear.png": {
       "hash": "3c39c2ec198a4609ac5e3b61fa3b3d10ea057f19dab6d391cb8cfeb69d1bfc7f",
       "size": 5348
+    },
+    "pie.bear.rich.png": {
+      "hash": "934346308051bd7fab4b6ca35594f077396e4392a8f9c51fdad86c4f7737eb0d",
+      "size": 22472
+    },
+    "pie.beef.png": {
+      "hash": "12868091ad119fdf6bc1072dd934680630941fdf4abdbcd1555f5072c2723879",
+      "size": 19623
+    },
+    "pie.beef.rich.png": {
+      "hash": "d6b5a72d87092c39dada0493d058182b1b3c1891b79d818dc4a271efbc3f7986",
+      "size": 22786
     },
     "pie.bigcat.png": {
       "hash": "49046db7bd57b78e1810807fff393f75898ee2a8897be9f82d5225d119a334b0",
       "size": 5511
     },
+    "pie.bigcat.rich.png": {
+      "hash": "e1e21d71a6633eb08e128ab47b9fc06aa86858420b7d7b9fcdc2b30dedf3fdf2",
+      "size": 23069
+    },
     "pie.chicken.png": {
       "hash": "d03961321ce5e7bc824dc0c46752b568b2c08be4e8d0e32f962eab79ba5ac2a5",
       "size": 5254
+    },
+    "pie.chicken.rich.png": {
+      "hash": "39b0c9aa070a21a8e042d8a9dd09477ff80ac8328f92e2cd85a17dad5cd6f508",
+      "size": 22408
     },
     "pie.crocodile.png": {
       "hash": "ef8df8114da4e4aa9ee5403e30336bfcea294f7a453fdcc304346c61eb642af7",
       "size": 5365
     },
+    "pie.crocodile.rich.png": {
+      "hash": "33eacaf1fa7e8e8507b2b36d1263d8a50748a698adc631a2c58ded54c4aa7640",
+      "size": 22473
+    },
     "pie.fish.png": {
       "hash": "33654d34375c8267a79a2150301d408d0f9d0aa535ca972981c154a40c7b9046",
       "size": 5149
+    },
+    "pie.fish.rich.png": {
+      "hash": "7dd8012fa6825faf31d354149ee96a46c2e6199a6c78fbba6bd1ddbd762208cc",
+      "size": 22065
     },
     "pie.hunters.png": {
       "hash": "9ed3eb526c33fd629ebf1a63dfb8a1e59bd2c290ab3d6a9bc1418d9fbbac7b3b",
       "size": 5471
     },
+    "pie.hunters.rich.png": {
+      "hash": "394e42e4907d7f0670894694ea70a2844fc9ce824bc66fbdf2a6a22ecf8b21a3",
+      "size": 22740
+    },
+    "pie.mutton.png": {
+      "hash": "5398f68624afcc89c557b9f82c8e3b859cabe1927abcb23ef6a51fbfa2916884",
+      "size": 19283
+    },
+    "pie.mutton.rich.png": {
+      "hash": "6f02e8763a23d45ed45cc8a2841f88c144c3f9aa83b6f6f0da360714e5333926",
+      "size": 22420
+    },
     "pie.pork.png": {
       "hash": "da78c114c61d15449fcd11301fccdb18c1ee88048dbd67aa3718c18f57c20f3e",
       "size": 5535
     },
+    "pie.pork.rich.png": {
+      "hash": "a141f210307f7b4fc1fd4b1f8960010d1c8529b30df78d97a6d7a9c865c2f6a6",
+      "size": 22536
+    },
     "pie.pumpkin.png": {
       "hash": "3141cf20252afa961d199bfcf8e6c9bb77070d5b0f737f12213ddcad39d30abd",
       "size": 5390
+    },
+    "pie.pumpkin.rich.png": {
+      "hash": "920359c60944c334943fc11687e40bf25b1deab7ea24021c0685e4b169ebebeb",
+      "size": 22408
     },
     "pie.survivors.png": {
       "hash": "f5abc866fac0be60d395c8b00962ff4c1fda03c038a4acd6f15ab6d569e6ce2a",
@@ -3783,25 +4203,25 @@
       "hash": "6368f1f94dc621ef3c0dde35600b340afb735a820fa5fe89439b01da9dc28b29",
       "size": 2330
     },
-    "planter.large.png": {
-      "hash": "b75c379faf2c9b946d896ec5d955fe4a1f9c6c86526e73f814d6d2e7448f9488",
-      "size": 5151
-    },
     "planter.large.RailRoadPlanter.sitem.png": {
       "hash": "6c4b15c4955afa501196b4b9209680f428cda143a2131720df8370aed8de5588",
       "size": 4104
+    },
+    "planter.large.png": {
+      "hash": "b75c379faf2c9b946d896ec5d955fe4a1f9c6c86526e73f814d6d2e7448f9488",
+      "size": 5151
     },
     "planter.small.png": {
       "hash": "b68b66176d4a26849f6dfdeec09f494659d9599b713c6dacdcbfe954bf90e5ca",
       "size": 4402
     },
-    "planter.triangle.png": {
-      "hash": "3c3056e557a1d5fadea219e24b11986cfea3be77db0b2dff0d2657cb352a929e",
-      "size": 4260
-    },
     "planter.triangle.Triangle_Railroad_Planter.sitem.png": {
       "hash": "72fc221dbdf8801b77a1748e90790754762a5444f061be57a021d5c62ec67a51",
       "size": 3494
+    },
+    "planter.triangle.png": {
+      "hash": "3c3056e557a1d5fadea219e24b11986cfea3be77db0b2dff0d2657cb352a929e",
+      "size": 4260
     },
     "plantfiber.png": {
       "hash": "98957e85924752d36d34b8b027288e0ad508a489909f6fee1409e1d1f0d864e2",
@@ -3814,6 +4234,10 @@
     "pookie.bear.png": {
       "hash": "b2c86b66ec3b4f82a4bf596eb6e97873d6a1e98c5f7ccecedbc7478e30fa0c60",
       "size": 6272
+    },
+    "pooltable.png": {
+      "hash": "e4a75c9b21a21917271e1ea64f546ceaf5741fd7bcbfadd0ea8e2ead09d3113e",
+      "size": 15388
     },
     "porkmeat.spoiled.png": {
       "hash": "5e2b6dae067d082042ae76f11844606baf8b72af9ae6b5f221cad6aa12d75303",
@@ -3851,6 +4275,14 @@
       "hash": "49892a588becfbad975507d572e42f8858e954f626556132655727633ad5c0b5",
       "size": 4848
     },
+    "purecoolingtea.creamy.png": {
+      "hash": "2f8c3def479940f275ea5ec0484e2a3e45c2f7d7770412a69c34c98474d6c756",
+      "size": 25679
+    },
+    "purecoolingtea.milky.png": {
+      "hash": "f45e654c84f432e51501db601673ebe9efb30cf71d156ae8b399e7f92d460ea7",
+      "size": 24657
+    },
     "purecoolingtea.png": {
       "hash": "91e903d5f162ec521d346b3d6de8e5f5c260e198ed6152dc19164d614ff6de99",
       "size": 5561
@@ -3859,9 +4291,25 @@
       "hash": "e4cab1d024aa1ea1cbe03899d71a1d079fa3bbcf8fe08efaca3fcfa091cf1e6f",
       "size": 5226
     },
+    "pureharvestingtea.creamy.png": {
+      "hash": "566179136dec91fea7ee7f7a67bf512d86ff291ef4ee50a1c30a5b31c28b858f",
+      "size": 24022
+    },
+    "pureharvestingtea.milky.png": {
+      "hash": "2f400995a3846a30cde1486c7d76d1b482303e6b11e2208cdb6279db595879fc",
+      "size": 23006
+    },
     "pureharvestingtea.png": {
       "hash": "defe3b44dab55834a3a6c8f5eb109c7c7f1a109dccebe2cb22843578d0c69360",
       "size": 5101
+    },
+    "purewarmingtea.creamy.png": {
+      "hash": "3b5b744f7e9ffc8fc8a9f99fa44932e78d0e196ffc5623fdee97c1d724cd8490",
+      "size": 24258
+    },
+    "purewarmingtea.milky.png": {
+      "hash": "7127c40bcdb9829d17c8c6ad4b944a0fee0cd612f2496ff4df0d1e91859e2933",
+      "size": 23237
     },
     "purewarmingtea.png": {
       "hash": "c51b12bcb3f46bb9ca7db4bd368eaf753a9bb1bceacd1c69960a1288c7ca6e11",
@@ -3890,6 +4338,14 @@
     "radiationresisttea.png": {
       "hash": "a8645973165037a1753a0a3a548b6c1f75823172f399d184fd7715cd987d9d74",
       "size": 5066
+    },
+    "radiationresisttea.pure.creamy.png": {
+      "hash": "14b53f061b15b2b66ced73df26ce02b9b3c58d46ec2a9afa18509892567f71fb",
+      "size": 24843
+    },
+    "radiationresisttea.pure.milky.png": {
+      "hash": "030f6b90ef7db8d4690448d21a1263da6b799e259a35e3304c57efe4c77a8984",
+      "size": 23830
     },
     "radiationresisttea.pure.png": {
       "hash": "bbf06774e24abe083e5564c83ede7b958c0573b8e82c50ce235be9c6ab413ae7",
@@ -3939,6 +4395,26 @@
       "hash": "35c14847d2f76fb5943626f4036f37ea72b85605cd588ba4b2c2fdd4c5b7355d",
       "size": 3749
     },
+    "rifle.ak.ak47u.glass.blue.item.skin.png": {
+      "hash": "a340087fea9dc1fea955be77bb3126c4d41e1d1f2545f4120f7ef8cd594009f8",
+      "size": 34706
+    },
+    "rifle.ak.ak47u.glass.green.item.skin.png": {
+      "hash": "a340087fea9dc1fea955be77bb3126c4d41e1d1f2545f4120f7ef8cd594009f8",
+      "size": 34706
+    },
+    "rifle.ak.ak47u.glass.item.skin.png": {
+      "hash": "a340087fea9dc1fea955be77bb3126c4d41e1d1f2545f4120f7ef8cd594009f8",
+      "size": 34706
+    },
+    "rifle.ak.ak47u.glass.pink.item.skin.png": {
+      "hash": "a340087fea9dc1fea955be77bb3126c4d41e1d1f2545f4120f7ef8cd594009f8",
+      "size": 34706
+    },
+    "rifle.ak.ak47u.glass.red.item.skin.png": {
+      "hash": "a340087fea9dc1fea955be77bb3126c4d41e1d1f2545f4120f7ef8cd594009f8",
+      "size": 34706
+    },
     "rifle.ak.ak47u_diver.skin.png": {
       "hash": "7d257f72c2bfed0c8c9ee2f6bbfef74a46f2f116f910f5c1e072feccc21c2aca",
       "size": 3662
@@ -3954,6 +4430,26 @@
     "rifle.ak.diver.png": {
       "hash": "7d257f72c2bfed0c8c9ee2f6bbfef74a46f2f116f910f5c1e072feccc21c2aca",
       "size": 3662
+    },
+    "rifle.ak.glass.blue.png": {
+      "hash": "dfa5841614366805aed6753ce8db2c366673d276b4447c282e56777332e3a55f",
+      "size": 11519
+    },
+    "rifle.ak.glass.green.png": {
+      "hash": "1df809bd25a4e14da73b4891a3a21ac28bf393cc6c5b569c3613211a2fc73eb5",
+      "size": 11598
+    },
+    "rifle.ak.glass.pink.png": {
+      "hash": "c4a474e4ffefdcf84506167e8f84f5b9fcb5130df3994883acee4e081850f14a",
+      "size": 11780
+    },
+    "rifle.ak.glass.png": {
+      "hash": "121607c546dd13afdd3e484daa312d8cfcac3474ab99c6ebb99831771df2fd1b",
+      "size": 11806
+    },
+    "rifle.ak.glass.red.png": {
+      "hash": "f17b482dde12de4be8c6f4a6ca991ab9b5b8a5019b92309d201e26bb9f7e74c5",
+      "size": 11378
     },
     "rifle.ak.ice.png": {
       "hash": "35c14847d2f76fb5943626f4036f37ea72b85605cd588ba4b2c2fdd4c5b7355d",
@@ -4171,6 +4667,10 @@
       "hash": "34618ea5ef18687640b84283f85dfb10f8e20b2e4e3e208670bdf1d40f41ed38",
       "size": 5635
     },
+    "salvaged.industrial.shelves.png": {
+      "hash": "79a36e7ab760a503dd4bda3f654f66f8202a6b3e362f2193aaa4e32315a673bc",
+      "size": 25320
+    },
     "salvaged.sword.png": {
       "hash": "b54a6dd1acb893b8158d6247eed0bd8abd91235d63b93507295247e703b8f889",
       "size": 6228
@@ -4259,6 +4759,14 @@
       "hash": "60c60a11b6dc9970c84eb0512ac2084b8ab3bd10e2206fe8c9d8214639eadf05",
       "size": 5011
     },
+    "scraptea.pure.creamy.png": {
+      "hash": "81b12e4057e45bfcb8e723c82193e412ec1a468d2c3ba7197ce6a025ab1d19f3",
+      "size": 23294
+    },
+    "scraptea.pure.milky.png": {
+      "hash": "b472f323146e1329e50a3fe70eb68d5c3c7d7059adb8b0395b00650755abcce5",
+      "size": 22212
+    },
     "scraptea.pure.png": {
       "hash": "6e5e787d06e906da861c6c058a7ca7a0318e39055b5a1c1b0037470e57e08bd1",
       "size": 4889
@@ -4270,6 +4778,10 @@
     "sculpture.ice.png": {
       "hash": "be12ee6972b0eb59b82b6b88bf400e6d112c38e9afbdc949a607aa25a12149b6",
       "size": 5154
+    },
+    "sculpture.rock.png": {
+      "hash": "3a8d082e7861c98af03d469784716d09256c7113a14e9d205bb92e5b56c813e7",
+      "size": 19922
     },
     "searchlight.png": {
       "hash": "5dc3d1dea31919579701107686d4700ab5c1b12a504515859ab98d2272c686f4",
@@ -4347,6 +4859,10 @@
       "hash": "a12efe5b8a1dcaff33080485d1861d003bf2cc6f9760143ea034817902a59eeb",
       "size": 7436
     },
+    "shears.png": {
+      "hash": "b8ce202bbb050741b461b811391d179d192c30373d2f6f16c84e146db06eedd6",
+      "size": 12309
+    },
     "sheetmetal.png": {
       "hash": "bdc3e6a37a3da07842a375927f5f5a668289b6c3b111a894d527cf1a04e55214",
       "size": 5309
@@ -4354,6 +4870,10 @@
     "shelves.png": {
       "hash": "299a4188921cf7048879bf71f14b3844a3a6ffd9a9f6f00578b9d98e09406bc8",
       "size": 5655
+    },
+    "shelves.salvaged.industrial.skin.png": {
+      "hash": "79a36e7ab760a503dd4bda3f654f66f8202a6b3e362f2193aaa4e32315a673bc",
+      "size": 25320
     },
     "shelves.salvaged_bamboo_.skin.png": {
       "hash": "303f930543162a6478689748b6f8aa15d2637efbef6d8bd1a5c4e1aca81bbefa",
@@ -4583,6 +5103,10 @@
       "hash": "263c59591eeab5e7019b98394ff0a8cfecdfa01829915a3dae0f404bc95c5a89",
       "size": 6705
     },
+    "skimmedmilk.png": {
+      "hash": "e1c11a26679b7e9b579c71a0865bc2d863b93d40e95df6761c3a8653219c4114",
+      "size": 21691
+    },
     "skull.human.png": {
       "hash": "582fc2e74fb07cc5bdcb9c9d9742440008823f1c531bfc880db8b0c9b8b37011",
       "size": 4716
@@ -4623,6 +5147,10 @@
       "hash": "732a007eb6115a298b6b2ea931182f04b1c15a45ce90329f918563cfed9dea54",
       "size": 5447
     },
+    "skull_fire_pit.png": {
+      "hash": "5fc73b222b13937eec44783b1451a544c2c92da20a37afdce10bd02a3f7c7d18",
+      "size": 4327
+    },
     "skulldoorknocker.png": {
       "hash": "b504c569059182adede87729c58f7a74808b8c4aad862c0ccaefbf53cc768db5",
       "size": 6744
@@ -4646,10 +5174,6 @@
     "skullspikes.pumpkin.skin.png": {
       "hash": "a38aead91fb09326111447a3d893259d7bfdd48475c132641a95bd5eabd62a4c",
       "size": 2126
-    },
-    "skull_fire_pit.png": {
-      "hash": "5fc73b222b13937eec44783b1451a544c2c92da20a37afdce10bd02a3f7c7d18",
-      "size": 4327
     },
     "skylantern.green.skin.png": {
       "hash": "5681ea4cb05bf0b4733c95fd7f92b585edbc8f6474b2f9d02eb24c5c913a51d0",
@@ -4687,15 +5211,15 @@
       "hash": "84431db6979f7f64ff51b11e4321a53d72449557ad68d6d5e6b1446d367ec6e1",
       "size": 3712
     },
+    "sled._xmas.png": {
+      "hash": "51217d3d92f8e7740eaff5e07d3eae83005c390fbcbeb4dcdf554c48ad9f1a6f",
+      "size": 5465
+    },
     "sled.png": {
       "hash": "bd703a46ea81499bb67fa00ab6665a33ca6e7eb081f07cd8d4abb2aee66a4535",
       "size": 5245
     },
     "sled.xmas.png": {
-      "hash": "51217d3d92f8e7740eaff5e07d3eae83005c390fbcbeb4dcdf554c48ad9f1a6f",
-      "size": 5465
-    },
-    "sled._xmas.png": {
       "hash": "51217d3d92f8e7740eaff5e07d3eae83005c390fbcbeb4dcdf554c48ad9f1a6f",
       "size": 5465
     },
@@ -4731,6 +5255,10 @@
       "hash": "217d6495392ac7aec94f97e5604be00f4b2749da83f0ae63f4d024c18c677728",
       "size": 7808
     },
+    "small_ramp.png": {
+      "hash": "3a2220bd8051f91c03e5986220cd9ef18feb1cb34e2a33f842fb276829460f0f",
+      "size": 2250
+    },
     "smallbackpack.png": {
       "hash": "a8257749b33501330a5ab99e2a67be0261fb8d51d0645e8c1c5dcba24af427d3",
       "size": 6280
@@ -4746,10 +5274,6 @@
     "smallwaterbottle.png": {
       "hash": "851d827edda69ab295614f888e280ebeb9ef301b6af61488879434f55fbc9f43",
       "size": 4712
-    },
-    "small_ramp.png": {
-      "hash": "3a2220bd8051f91c03e5986220cd9ef18feb1cb34e2a33f842fb276829460f0f",
-      "size": 2250
     },
     "smart.alarm.png": {
       "hash": "49118d4ce5dfd001817452603b982b11493dd32a95e91cc869afd67fe2df260d",
@@ -4770,6 +5294,10 @@
     "smg.thompson.png": {
       "hash": "68792d136bb886e445d524ae9c6c0b02149306f278515a13dcf771ad7981bf8a",
       "size": 3401
+    },
+    "smg.uzi.png": {
+      "hash": "58a06a75e74526b37628ecdebb75911702972f025bd9ebc05f1b5cf23ea1264b",
+      "size": 10281
     },
     "smgbody.png": {
       "hash": "01d758ce92c7e2f410d289c2b72b140932c36b066c7fbbf08fbdda0af43b9614",
@@ -4935,6 +5463,14 @@
       "hash": "efa22a1b06b9cc901f6afa2484969dc1fb21e969c502058282a7b58157b4ec12",
       "size": 6124
     },
+    "spraycandecal.spray.decal.industrial_dlc_keepout.png": {
+      "hash": "efa99bcf3f796725dccfb32eefea95e183a956ba2daf9d4c8e0f9ffc32d4b185",
+      "size": 26519
+    },
+    "spraycandecal.spray.decal.industrial_dlc_toxic.png": {
+      "hash": "bb6c3980e8e265ea85ea4bb59ce63ca7c676bc497226f0e747bc2cc141047ca0",
+      "size": 26398
+    },
     "spraycandecal.spray.decal.jungledlc_skull.png": {
       "hash": "ce49ada831b67dd2c8cb44e4e227f0b2d16c43c061081f9f10b17c49890e221f",
       "size": 6602
@@ -4954,6 +5490,18 @@
     "spraycandecal.spray.decal.whip.png": {
       "hash": "c32ff9bf9b7fab657770d9c829ce1988739a99cfb1bc15eb95ba2ac0bd501ff1",
       "size": 6494
+    },
+    "spraycandecal.spray_decal.bar.games.circle.png": {
+      "hash": "196d6b9a34a4098949f39f4c98d980b6033cf8bf17fc8a0a5360f72e8175edf0",
+      "size": 24257
+    },
+    "spraycandecal.spray_decal.bar.games.cross.png": {
+      "hash": "5646fe2455c3a389f37b7835ab4162e5e2f2159247eef103aff4c9524da6661d",
+      "size": 24237
+    },
+    "spraycandecal.spray_decal.bar.games.grid.png": {
+      "hash": "301e0a095f927f8054ea5b9e4d89ff54e7c77dfeaa71ad7bd71bcfdc001a4950",
+      "size": 24708
     },
     "starballoon2025.png": {
       "hash": "807bd83f79b48ac2132ab1952c46d095e69f61b3ea7f831a984347c324514f7a",
@@ -5003,10 +5551,6 @@
       "hash": "029b280a0812b5f53796792720b35d72dc94a48bee08245809035ffe9bf8f0b2",
       "size": 4281
     },
-    "storageadaptor.png": {
-      "hash": "e48f2e59f192913e44557b9965a51d2d52fbe0c7648bf18d3bfdb0ce8502a4ad",
-      "size": 4437
-    },
     "storage_barrel_a.png": {
       "hash": "771fa965d1849c96d2196b4f81eaa966ea281f401113a799523e4728424457c4",
       "size": 4885
@@ -5018,6 +5562,10 @@
     "storage_barrel_c.png": {
       "hash": "27c4285f9cdf4d76c355924ffbab2447c94e0bf44f72538c2c655bb76c804a82",
       "size": 6387
+    },
+    "storageadaptor.png": {
+      "hash": "e48f2e59f192913e44557b9965a51d2d52fbe0c7648bf18d3bfdb0ce8502a4ad",
+      "size": 4437
     },
     "strobelight.png": {
       "hash": "c4e4b6655f24f42523959044af6583e4df82672aeca92c19cfb8c66ded91a231",
@@ -5163,6 +5711,10 @@
       "hash": "6702066847e9d925e2396ea24d361ac069c09f1bf4aa89d198ad54d5d81d6b38",
       "size": 4161
     },
+    "thruster.module.png": {
+      "hash": "f719786d021224c093a0c73113586d670e06e5c8192e5cd9336435ade6880195",
+      "size": 25351
+    },
     "tincan.alarm.png": {
       "hash": "5d7f137d4a34d456080d7ba33e31679dc41999fd704a3778b28445a428d9573d",
       "size": 4028
@@ -5186,6 +5738,10 @@
     "torch.diver.skin.png": {
       "hash": "c98ec1027f8ec4fb6968ba6e075c0831a380d9e317e45603c8e5f7ecb8d87a1f",
       "size": 3054
+    },
+    "torch.industrial.skin.png": {
+      "hash": "741b72d6eadd9e807c04d80b80163c28d96e6dbb73af47d3faaf8b9ce0774eff",
+      "size": 16005
     },
     "torch.png": {
       "hash": "799743e096bcb06606f3b7d1f0ccacdc1610a213899cbf6ea8d214434d72f99e",
@@ -5363,6 +5919,14 @@
       "hash": "1c281fcb873ebfe2211642cff9feac059db22e3bf561f38b861880b8c47e35ca",
       "size": 3918
     },
+    "tunalight.skull.png": {
+      "hash": "1b2db03f04b9cff2242b333ecd98797bf8debca6426dc44bf6fd8d130a735ab7",
+      "size": 17096
+    },
+    "tunalight.skull.skin.png": {
+      "hash": "e03426ad86d472947e861259b200c143c30c32a54eaf73d979b5db2714e89658",
+      "size": 36128
+    },
     "twitch.headset.hat.cap_headset.twitch.png": {
       "hash": "34667f6f3b65e83c0804c68596ae3280209ce85d04e7b68d3b5b43fc24b5e68e",
       "size": 4276
@@ -5487,6 +6051,14 @@
       "hash": "1767c205bd89b40a10f585e71191fc0997a5caf5b4ea765af1aee03ecdacbc17",
       "size": 1962
     },
+    "wall.animal.fence.gate.png": {
+      "hash": "5cb94d04a503309619ecd0a5dc4d74f18d1e92189f3bbe6d3bea89a153b0678a",
+      "size": 14570
+    },
+    "wall.animal.fence.png": {
+      "hash": "c54b5532d1867e266336785a51f5fd546ae3a4aa4a0d318e8dea9674398e09d4",
+      "size": 12480
+    },
     "wall.external.high.adobe.png": {
       "hash": "2fe5388bc67597b9b744e75345dbc48081d7c531493f4a815d2fe74a83d2410b",
       "size": 4115
@@ -5530,6 +6102,10 @@
     "wall.frame.fence.png": {
       "hash": "970df5057508756888325e5b6d39244d648dd9d5fae8e5432f81d95170a4f842",
       "size": 5382
+    },
+    "wall.frame.garagedoor.industrial.garage.door.skin.png": {
+      "hash": "cca3cb29c8c6b491cd253cef1ad43ee57dcb895eb47755bd74ed298b8b278ab5",
+      "size": 24907
     },
     "wall.frame.garagedoor.png": {
       "hash": "9e52b56527793037b9f670a2754f2304bf159faee7c7f3bedef2cdf41bf66255",
@@ -5575,6 +6151,10 @@
       "hash": "5f16b6b697fab777c6000a7a8b2a27d65c86d09dbb44ccc527608b94bd63189a",
       "size": 4144
     },
+    "wall.shallow.industrial.shelves.png": {
+      "hash": "0a8fe27822b55f8241f7c66d16641294a9a2119166c5a2e49569500adaf85a7b",
+      "size": 8925
+    },
     "wall.window.bars.metal.png": {
       "hash": "1ac5c1632880670596bee552140f73d2f15a476129eec05f1a2243e27b851b92",
       "size": 3254
@@ -5595,9 +6175,37 @@
       "hash": "7b06dcd7bd9977e50b0a19c5c6784508a99a780d440ac9feeb8810346c4bcf71",
       "size": 3421
     },
+    "wallpaper.ceiling.ceilingpaper.foxfire.skin.png": {
+      "hash": "727674181cef2b23c7c778d86410ed75a2440c42e912660044ab94b1ec186791",
+      "size": 19432
+    },
+    "wallpaper.ceiling.ceilingpaper.glowing.stars.skin.png": {
+      "hash": "d8b067bb4c9b3eea75294854b02615cfb85d526176d7610d31433a3107ffd15a",
+      "size": 11103
+    },
     "wallpaper.ceiling.ceilingpaper.goldstars.hexagon.a.skin.png": {
       "hash": "6b16688a7415576befb9689e9b8558a25ae2fed8708c1a4bb32d4ebb337a94c8",
       "size": 3359
+    },
+    "wallpaper.ceiling.ceilingpaper.graffiti.big.tags.skin.png": {
+      "hash": "6ba5c582ece96f3c0c83259e066f4d9462afe9a3a67961516132ed34be87823b",
+      "size": 20152
+    },
+    "wallpaper.ceiling.ceilingpaper.graffiti.clouds.skin.png": {
+      "hash": "242a715ee8617a49ebd89310fe19dae7110bc55d5e6cc64a9707d77aa22d0eba",
+      "size": 19594
+    },
+    "wallpaper.ceiling.ceilingpaper.graffiti.tags.skin.png": {
+      "hash": "dbfd45981a707782fb97ff795dba9ba05f2696710751aaedc26a0d810fb680f8",
+      "size": 18696
+    },
+    "wallpaper.ceiling.ceilingpaper.graffiti.vehicles.skin.png": {
+      "hash": "c78cef3f046bc7710927ebb6aeb2eaf26d2aa8fdf31b6f3919a1fe2194447b01",
+      "size": 19191
+    },
+    "wallpaper.ceiling.ceilingpaper.manor.skin.png": {
+      "hash": "6f6d34c68ecfba9bc86c31591bb6d5bca266434b35f97174338879084b238578",
+      "size": 34040
     },
     "wallpaper.ceiling.ceilingpaper.metalsheet.a.skin.png": {
       "hash": "fbdf1023d2438b6930b204fe4ba61148f359ba33f932a03c0083af8de62e5065",
@@ -5687,9 +6295,17 @@
       "hash": "55b7099d36d878fe0e82d82f891c3af3320d4cec080a7d5aa90d1b796482ba60",
       "size": 10882
     },
+    "wallpaper.ceiling.ceilingpaperfireflies.skin.png": {
+      "hash": "f2f66000aad09103c03be1c733b567463b14db8079d14d3d42dd74afddd801f6",
+      "size": 13744
+    },
     "wallpaper.ceiling.png": {
       "hash": "1bd9098cfd2da51f3544b5b40e22b8638d4d27c1e84da812608a5ebf02135825",
       "size": 3371
+    },
+    "wallpaper.flooring.floorpaper.Xmas.tiles.A.skin.png": {
+      "hash": "82590d38be5f98938b5ee67990b8261ee4184b31cc524e9d551b644566e27c3e",
+      "size": 10643
     },
     "wallpaper.flooring.floorpaper.asbestos.a.skin.png": {
       "hash": "605005a8fd3bf218efe6cbf9505a709557874b5585e8b7257e54067420e12e29",
@@ -5715,6 +6331,10 @@
       "hash": "631dbf49afe7e5b6705124de313f512988b40b09a65787dc24a74b298a7f974e",
       "size": 3542
     },
+    "wallpaper.flooring.floorpaper.bar.games.carpet.red.skin.png": {
+      "hash": "c0242ee9c22268b3a61d9a439da5c1bbf4ed11217fe6393ada84159ebdd9ae04",
+      "size": 20033
+    },
     "wallpaper.flooring.floorpaper.carpet.a.skin.png": {
       "hash": "b89fd026c0dd44b71830c40e420d048531d12bc86eee36bc7f5a8b0990939af1",
       "size": 3567
@@ -5723,6 +6343,18 @@
       "hash": "5481c31db24cb09d9a4f22f51bed130002649f8a57018fa2757ca26710dd6d22",
       "size": 3237
     },
+    "wallpaper.flooring.floorpaper.carpet.neon.hoops.skin.png": {
+      "hash": "066712cdde165faa86f25b7656466d5a3ed35fec9babe1c593c35a50bacc3a7f",
+      "size": 18869
+    },
+    "wallpaper.flooring.floorpaper.carpet.neon.space.skin.png": {
+      "hash": "16bed1a4981e9a63edead2f766fcca4a3e21baed979e45ef4ae72c8a48e50bb2",
+      "size": 18861
+    },
+    "wallpaper.flooring.floorpaper.carpet.neon.splats.skin.png": {
+      "hash": "2d899b510a42c9a5d3b7d9d300317b1c60cec96efc1c0d1f174a203de908d075",
+      "size": 18141
+    },
     "wallpaper.flooring.floorpaper.carpet.plain.b.skin.png": {
       "hash": "aa2c59e88576e43d86e0a666056736bb44963f2dc8616397f2b9c00d35f837cb",
       "size": 3035
@@ -5730,6 +6362,58 @@
     "wallpaper.flooring.floorpaper.carpet.shaggy.a.skin.png": {
       "hash": "86b34a4a637d5bfd79f5d59aa73fcdc0c73ca782658d7a789f91cce8b940117f",
       "size": 2985
+    },
+    "wallpaper.flooring.floorpaper.concrete.graffiti.Tjunction.skin.png": {
+      "hash": "5c953ec194f51bd55bbf63bf21c2d68cbe16232722033f69d55a3a8cfab5e530",
+      "size": 19347
+    },
+    "wallpaper.flooring.floorpaper.concrete.graffiti.bend.skin.png": {
+      "hash": "0dd099d7a814cd3acce86a8dc6b35ae3098940475d84300ce2ccc60a6f399dea",
+      "size": 18892
+    },
+    "wallpaper.flooring.floorpaper.concrete.graffiti.cross.skin.png": {
+      "hash": "0e2b081cafece9e1d3ba1c5edb177ffc95ecefdd44189c4a725da330979e79d1",
+      "size": 19529
+    },
+    "wallpaper.flooring.floorpaper.concrete.graffiti.end.skin.png": {
+      "hash": "19299c8ba6147d3aa4124528df557b5c3ec140c9fd8363b7c3b36c5c1a3182d7",
+      "size": 18568
+    },
+    "wallpaper.flooring.floorpaper.concrete.graffiti.plain.skin.png": {
+      "hash": "b6ca4b3af128a07f3f5af045bb56472f523ca13afde8a534b9be57c06bfadedb",
+      "size": 16083
+    },
+    "wallpaper.flooring.floorpaper.concrete.graffiti.straight.skin.png": {
+      "hash": "e67aae594e49f7302b0f0a91725b2b8906fe1c632e83dfc03b62e42150ed8b25",
+      "size": 19045
+    },
+    "wallpaper.flooring.floorpaper.concrete.painted.Tjunction.skin.png": {
+      "hash": "034b64cf33730cfcf5d85db52efa79332761c0bf8ab4d3f43017269f7ccdfbb7",
+      "size": 16575
+    },
+    "wallpaper.flooring.floorpaper.concrete.painted.bend.skin.png": {
+      "hash": "ba08985fc500976eb44f8143608f43fb2d1262af303c315905f6411e7ac74d55",
+      "size": 16605
+    },
+    "wallpaper.flooring.floorpaper.concrete.painted.cross.skin.png": {
+      "hash": "f4c2889957577fed7210f2fe88a546680bf7772550ece259fbd8ff37e87ae4eb",
+      "size": 16762
+    },
+    "wallpaper.flooring.floorpaper.concrete.painted.end.skin.png": {
+      "hash": "73a8d0e64b8ab2d74376d6a10adb59817e976c39eb249e0d97230d9f8246284d",
+      "size": 17543
+    },
+    "wallpaper.flooring.floorpaper.concrete.painted.plain.skin.png": {
+      "hash": "b9c1e64bf2242f51f130f45edef58b1e88df3bb83be597cf6adc0e707f3da5df",
+      "size": 15358
+    },
+    "wallpaper.flooring.floorpaper.concrete.painted.straight.skin.png": {
+      "hash": "7eb7fa275feecbdd9ae824fd7110d4fc20a9d12cfbe2032b342c43dc3cb8a860",
+      "size": 16728
+    },
+    "wallpaper.flooring.floorpaper.cultist.tile.skin.png": {
+      "hash": "d67110c52f9982a716a823a19fed27110a4925fa35e0d168a53e6efe25fc1269",
+      "size": 37033
     },
     "wallpaper.flooring.floorpaper.grass.easter.skin.png": {
       "hash": "0f5300144883c3bf2b23fa7f9618e10c4c837aa7f5376da59c6c4a847deeb4d7",
@@ -5783,10 +6467,6 @@
       "hash": "8425c173d30bf9f087e0fad7ce0d25d8927908315211fdf3afef8582acf24f67",
       "size": 8813
     },
-    "wallpaper.flooring.floorpaper.Xmas.tiles.A.skin.png": {
-      "hash": "82590d38be5f98938b5ee67990b8261ee4184b31cc524e9d551b644566e27c3e",
-      "size": 10643
-    },
     "wallpaper.flooring.png": {
       "hash": "806e0020c185bf9d17bb2cb78b93de8f74f5aa785d8142b3f6f492c0615b7a44",
       "size": 3462
@@ -5806,38 +6486,6 @@
     "wallpaper.wall.wallpaper.2025.twitch.rivals.purple.skin.png": {
       "hash": "2e333685d71768593bcb243c5c1c48c8354c731ec0e678ac3dea41f312e8ca2e",
       "size": 3233
-    },
-    "wallpaper.wall.wallpaper.assorted.giftwrap.skin.png": {
-      "hash": "ebbc05273e884d8fe70023720f906b24c37138ac8f6cd90dd288594587fdc987",
-      "size": 12042
-    },
-    "wallpaper.wall.wallpaper.bluediamond.skin.png": {
-      "hash": "d3bb620b07c6d963f2b81a4d3400ebe7f7ac893271ace2b1e1ee3b5c0251e10a",
-      "size": 3604
-    },
-    "wallpaper.wall.wallpaper.clouds.skin.png": {
-      "hash": "567adb04876b7991fe8a0d8a8d9559938b7e51f5ffb1caeeb8f70cfedb5cd1cb",
-      "size": 3792
-    },
-    "wallpaper.wall.wallpaper.easter.eggs.skin.png": {
-      "hash": "621c195d7c9cb4e4955dd3319a15ca2d5461bb62b4930277e4a8274be8044499",
-      "size": 8420
-    },
-    "wallpaper.wall.wallpaper.geometrica.skin.png": {
-      "hash": "02f8ce33666b597a98270016177a011c1d07b794d58a24dde7959d3a5cb79c34",
-      "size": 3555
-    },
-    "wallpaper.wall.wallpaper.geometricb.skin.png": {
-      "hash": "6d1087d7b4d0ea1e122827b7e9a336b182ba21183109dc4c7a3b1f1d9e82c79a",
-      "size": 3808
-    },
-    "wallpaper.wall.wallpaper.green.skin.png": {
-      "hash": "637b8d94dd267edb12e0b08a0133d2c9e0ee0e391b9fcd6c85655de7114b5abc",
-      "size": 3883
-    },
-    "wallpaper.wall.wallpaper.halloween.bats.skin.png": {
-      "hash": "a3bce162565f63b37ccf9cabbd6d14f7af9be24ddd65c5f79c5654db77db8bfc",
-      "size": 7048
     },
     "wallpaper.wall.wallpaper.JungleDLC_Jungle_animals.skin.png": {
       "hash": "ca7c5be2611782ab13c5a1c605677c33d06ed2c847b53ac3b93245bb67625bb7",
@@ -5879,9 +6527,101 @@
       "hash": "928aaff0c0928ee6d5d4752da2e39efd28af7a184471662c61b2c6daa507dabc",
       "size": 4316
     },
+    "wallpaper.wall.wallpaper.assorted.giftwrap.skin.png": {
+      "hash": "ebbc05273e884d8fe70023720f906b24c37138ac8f6cd90dd288594587fdc987",
+      "size": 12042
+    },
+    "wallpaper.wall.wallpaper.bar.games.wood.panel.skin.png": {
+      "hash": "1bd167e89d5f412b7212cbbae11a054c96a5d41687f28a42d2590b9e874879f5",
+      "size": 17638
+    },
+    "wallpaper.wall.wallpaper.bluediamond.skin.png": {
+      "hash": "d3bb620b07c6d963f2b81a4d3400ebe7f7ac893271ace2b1e1ee3b5c0251e10a",
+      "size": 3604
+    },
+    "wallpaper.wall.wallpaper.clouds.skin.png": {
+      "hash": "567adb04876b7991fe8a0d8a8d9559938b7e51f5ffb1caeeb8f70cfedb5cd1cb",
+      "size": 3792
+    },
+    "wallpaper.wall.wallpaper.derelict.wood.skin.png": {
+      "hash": "aea926e4b5745a6f236f105ae7dc8131903876607ccef3c4fdec7fa9aee0aa9c",
+      "size": 36219
+    },
+    "wallpaper.wall.wallpaper.easter.eggs.skin.png": {
+      "hash": "621c195d7c9cb4e4955dd3319a15ca2d5461bb62b4930277e4a8274be8044499",
+      "size": 8420
+    },
+    "wallpaper.wall.wallpaper.explosions.skin.png": {
+      "hash": "ce04d165b6c39baf68bd8212831954f3c9020c228fb1ce78ff6819e4eb3cd595",
+      "size": 20214
+    },
+    "wallpaper.wall.wallpaper.firearms.skin.png": {
+      "hash": "03f09b44f1c1382d5bac308803ce6252eb3672be5084714929a6537e6ad3f0ae",
+      "size": 19357
+    },
+    "wallpaper.wall.wallpaper.foxfire.skin.png": {
+      "hash": "2427f8679e8ba0e5fa2cab55e63945263b4d24b9b72c34cbcc1ad0482dc4aad3",
+      "size": 20524
+    },
+    "wallpaper.wall.wallpaper.geometrica.skin.png": {
+      "hash": "02f8ce33666b597a98270016177a011c1d07b794d58a24dde7959d3a5cb79c34",
+      "size": 3555
+    },
+    "wallpaper.wall.wallpaper.geometricb.skin.png": {
+      "hash": "6d1087d7b4d0ea1e122827b7e9a336b182ba21183109dc4c7a3b1f1d9e82c79a",
+      "size": 3808
+    },
+    "wallpaper.wall.wallpaper.glowing.mushrooms.skin.png": {
+      "hash": "e7681eb57ebb4121806f8e45915ea5f5d56cafffd403d9be61f9ffbb95ee4bc6",
+      "size": 20141
+    },
+    "wallpaper.wall.wallpaper.glowing.stars.planets.skin.png": {
+      "hash": "fe0dd47873350a3d08ad3a2a6abca563bb52cca3355f3ffb1f1c50397fd0b626",
+      "size": 17207
+    },
+    "wallpaper.wall.wallpaper.graffiti.base.skin.png": {
+      "hash": "8975bb42de5b99a7210bb7c37edd892656fc00adbebb28783d8b116c3f2560d1",
+      "size": 21387
+    },
+    "wallpaper.wall.wallpaper.graffiti.hazmats.skin.png": {
+      "hash": "48f34138f62ec905898b4d834be59ad7ff68df50ee9c10f03a5d287972a9a126",
+      "size": 22285
+    },
+    "wallpaper.wall.wallpaper.graffiti.raider.skin.png": {
+      "hash": "c9fe241b7abf1b4cf6ecb89d22c51337c79a5f91f11baa42c2ba93f799caa28e",
+      "size": 21401
+    },
+    "wallpaper.wall.wallpaper.green.skin.png": {
+      "hash": "637b8d94dd267edb12e0b08a0133d2c9e0ee0e391b9fcd6c85655de7114b5abc",
+      "size": 3883
+    },
+    "wallpaper.wall.wallpaper.halloween.bats.skin.png": {
+      "hash": "a3bce162565f63b37ccf9cabbd6d14f7af9be24ddd65c5f79c5654db77db8bfc",
+      "size": 7048
+    },
+    "wallpaper.wall.wallpaper.kick.off.2.A.skin.png": {
+      "hash": "787ac9a73d28ed961ff97e1afdf631e33e7311b19e30f371860a7d4ae66166ae",
+      "size": 19001
+    },
+    "wallpaper.wall.wallpaper.kick.off.2.B.skin.png": {
+      "hash": "b276bbd74c7bee35087bbcde0d331a6a2b297705cff2e597cbe90712d402596e",
+      "size": 14703
+    },
     "wallpaper.wall.wallpaper.muertos.A.skin.png": {
       "hash": "7c0cab305938d208cee8e67d60d9bc00f5267332eaddc6913f2303c8f34dc6ef",
       "size": 10498
+    },
+    "wallpaper.wall.wallpaper.neon.bolts.skin.png": {
+      "hash": "52520c75f0b5b05bd7c36c886650a8c5d04fd12961f9ba98ce198b58cbb58857",
+      "size": 17903
+    },
+    "wallpaper.wall.wallpaper.neon.shapes.skin.png": {
+      "hash": "25be6c87050d36f14b2d3636d0cb6f6fc0a730f003b63f32e284683b85837867",
+      "size": 17768
+    },
+    "wallpaper.wall.wallpaper.neon.squiggles.skin.png": {
+      "hash": "db5205c8d394a10dc19668cd24e35d95cbdc4298fb679b3bb07a623a52451d79",
+      "size": 21994
     },
     "wallpaper.wall.wallpaper.polkadotsa.skin.png": {
       "hash": "661f6c13b55e84f26bd93e9828f6044830c0f99d1705500b077edd7d2118c9c0",
@@ -6235,9 +6975,61 @@
       "hash": "35505ac14620b72a52d89ce71a2337ccf7db079f93fcf8737c67aaf47599a11e",
       "size": 5006
     },
+    "woodtea.pure.creamy.png": {
+      "hash": "4a2e887162cc33501bd23a6993765e058e531d0abe3ad47e0bbab904a3e00ae9",
+      "size": 22996
+    },
+    "woodtea.pure.milky.png": {
+      "hash": "0aab01a11754d11e9f4f6b0066d939650b3b9cb0c7622611183780b6598c683a",
+      "size": 21902
+    },
     "woodtea.pure.png": {
       "hash": "da8040329eaf1d424af0abf72c2c2c779449e936ba86a2fd4355945bec190149",
       "size": 4812
+    },
+    "wool.png": {
+      "hash": "c9e6c5677b996c891e87ca931097c0ddc096c382fc67f094ffd46d5322b52690",
+      "size": 21351
+    },
+    "workbench.upgrade.accelerated.png": {
+      "hash": "e11e100ac3c191303d18f886882a319676f2dc27d5b054859c9d35447f0d652a",
+      "size": 16374
+    },
+    "workbench.upgrade.comfort.png": {
+      "hash": "91000e1f74694cb9fa860cd87336af1a77bbe632008b11b757b9577315e82270",
+      "size": 15682
+    },
+    "workbench.upgrade.defensive.png": {
+      "hash": "3bc69d2f2301b90dd8d8b920b2c746dcf4a2d1cc41e4c5a2414984417ce8d95b",
+      "size": 14009
+    },
+    "workbench.upgrade.efficiency.png": {
+      "hash": "c9534357b5042725749a6f5a20aa3890087090018679829096a6bf5d5c2c2df1",
+      "size": 19008
+    },
+    "workbench.upgrade.prototype.png": {
+      "hash": "5986d3cfdfa819245d4ad9491a89f83ea9182ed69180e214a67254fa10779578",
+      "size": 20111
+    },
+    "workbench.upgrade.range.png": {
+      "hash": "baf29f3f51be3c6ae7725021d1a575e70aa039e90e05408ec90dab84e8b466de",
+      "size": 18302
+    },
+    "workbench.upgrade.recyclebin.png": {
+      "hash": "25a3db821b960d07a5475d63fb5148a9300ce3b87f722d4f598d826a13d91921",
+      "size": 20454
+    },
+    "workbench.upgrade.reinforced.png": {
+      "hash": "7c20c450184f53afe0d4a220e8c883022fe29784d908c81646a01a2997cde5c1",
+      "size": 24620
+    },
+    "workbench.upgrade.salvage.png": {
+      "hash": "5e6e66b10c0f32694a663d1ecde50eb4f20d89f00fb545ec4a0bb86b5e7c8d2f",
+      "size": 21577
+    },
+    "workbench.upgrade.surplus.png": {
+      "hash": "150aa3c0e889b1fccb0ef25849f086b0323e14c25dbb5f9ecbae7494d2d7bab0",
+      "size": 23409
     },
     "workbench1.png": {
       "hash": "9f2543b24ba0b19f45a6da6ca69c4bf2795938fdcb019006b6593fc1fecfdc02",
